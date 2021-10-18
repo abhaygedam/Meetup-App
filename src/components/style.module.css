@@ -1,0 +1,30 @@
+.cards {
+	width: 60%;
+	margin: 20px auto;
+	display: grid;
+	grid-template-columns: repeat(3, 300px);
+	gap: 20px;
+}
+
+.images {
+	width: 250px;
+	height: 230px;
+}
+
+.cardDiv {
+	width: 300px;
+	border: 1px solid grey;
+}
+
+.cardDiv button {
+	width: 50px;
+	height: 50px;
+	outline: none;
+	border: none;
+}
+
+.meet {
+	width: 500px;
+	border: 1px solid grey;
+	margin: 20px;
+}
